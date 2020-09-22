@@ -7,9 +7,6 @@ entries:
     url: false
     entries: false
 
-  - title: rss
-    url: feed.xml
-
   - title: About
     url: false
     entries:
@@ -17,6 +14,9 @@ entries:
         url: false
       - title: Company by theroyakash
         url: https://www.iamroyakash.com
+
+  - title: Get the RSS
+    url: feed.xml
   
   # - title: another list
   #   url: false
