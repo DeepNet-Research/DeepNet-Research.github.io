@@ -10,8 +10,8 @@ entries:
   - title: About
     url: false
     entries:
-      - title: DeepNet Research
-        url: false
+      - title: About DeepNet Research
+        url: https://deepnet-research.github.io/about
       - title: Company by theroyakash
         url: https://www.iamroyakash.com
 
